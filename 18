@@ -1,0 +1,874 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1,CINE SKY 01
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg655ZKP_zCGtlBUItgXem9q4
+#EXTINF:-1,CINE SKY 02
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg65jJ2JU3UXK6hjLpUqCE1ts
+#EXTINF:-1,CINE SKY 03
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6xNbWGWnQ2Kzj_AjwDRzcpg
+#EXTINF:-1,CINE SKY 04
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6_KAtRf8Q3O1_I1wj-hTvqA
+#EXTINF:-1,CINE SKY 05
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg63ilhaJWWzXv2ZkcpIE1mos
+#EXTINF:-1,CINE SKY 06
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg67Pgs0nNdoq4ffkJOd4UlLg
+#EXTINF:-1,CINE SKY 07
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg66J6tQE3sv5lDzZ2eZxk6EE
+#EXTINF:-1,CINE SKY 08
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6x5f5_ySRBSB6fYaeYBX_Ok
+#EXTINF:-1,CINE SKY 09
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg65ipa7AyvooI4i70ApXNcwQ
+#EXTINF:-1,RECORD RIO GRANDE DO SUL
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg61ZR1H24l1jfKNuX6lNoLGs
+#EXTINF:-1,RECORD ITAPOAN
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6_NDXHBBAbbj6_tC4SpAKyg
+#EXTINF:-1,RECORD NEWS
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6zzS2SHMuaC5W-4hfkCodgA
+#EXTINF:-1,RECORD SP
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6yYl4Z1STkh20IXZe8BpE_E
+#EXTINF:-1,RECORD RIO DE JANEIRO
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6wSEOYFADaFHUcXko8xQZvc
+#EXTINF:-1,RECORD SÃO JOSÉ DO RIO PRETO
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg69FGdNa0_EtuNXQlFBKTaYY
+#EXTINF:-1,RECORD GOIAS
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6ycvqF2i9XQUGRGj00gg5sE
+#EXTINF:-1,SBT RIO DE JANEIRO
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg62HR-UINIKoR9YAZuxUzKuQ
+#EXTINF:-1,SBT RIO GRANDE DO SUL
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6-rPFBgi5h1bZ3vit4pZKVQ
+#EXTINF:-1,SBT SÃO PAULO
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6-D_Sk3S2mUVXyd4yNkqmbw
+#EXTINF:-1,SBT TV ALTEROSA
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6xqq0TVuT9svuPMFyOzYUvk
+#EXTINF:-1,A&E
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg61GIQsHkJI_MDgUJu9mgzaQ
+#EXTINF:-1,AMC
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg62pmTjd3Q4K28CzJ_Phl2F8
+#EXTINF:-1,ARTE 1
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg62bWg9Zk59hEoV5BTxBIC4Y
+#EXTINF:-1,AXN
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6wNMHHVtz9M0jF9OcId0poI
+#EXTINF:-1,CANAL SONY
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6736aLcpDs1FxDUr2XK1XNo
+#EXTINF:-1,CINEMAX
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg66Wj899xhxL1P_T1-wW8bIE
+#EXTINF:-1,FILM & ARTS
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6yScgENVv0gYluc7ZP4rnrM
+#EXTINF:-1,FX
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg69fasSBG1WQWrG0w_TQ2zcM
+#EXTINF:-1,MEGAPIX
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6yFXRjabJJr42NkorKtUyfY
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg629lhJAGs1xLbLANIPv9zvQ
+#EXTINF:-1,SPACE
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg65vC1hmX8hA4Sx4JV0OP6vw
+#EXTINF:-1,STUDIO UNIVERSAL
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg634yeB96Zv0FG-hzcQg1TdA
+#EXTINF:-1,STAR CHANNEL
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg68mWrF7fcrtbwqPlNxTNEAg
+#EXTINF:-1,SYFY
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6-7Th1q8uiE7Y6jLJwEsRs0
+#EXTINF:-1,TCM
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg62lLoC5SNf07ZlZKcirDyvw
+#EXTINF:-1,TNT
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg68izbEi_Jk-W5MqdyuiALOE
+#EXTINF:-1,TNT SERIES
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg64GkE_6pYYkFlAqSYcCZwyo
+#EXTINF:-1,WARNER CHANNEL
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg690C6ml74cqqTI8u6JeDPzw
+#EXTINF:-1,HBO 2
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg63tatXy8eeIpJ8lVOtNkUBo
+#EXTINF:-1,HBO FAMILY
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg69E2BcanbUk8mPzN9FyAKlc
+#EXTINF:-1,HBO
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg656LvPyqLlq-T0onhDEpfaI
+#EXTINF:-1,HBO MUNDI
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6_2Xz3BS5JWVx4vuNdNvPzc
+#EXTINF:-1,HBO PLUS
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg67q2P9bxpgN6Qvvuh7ZkJV4
+#EXTINF:-1,HBO POP
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg61nZ3FCP0kZ0or3EI9YyKFA
+#EXTINF:-1,HBO SIGNATURE
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg641744J24kyNajQeXMr2Sjk
+#EXTINF:-1,HBO XTREME
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg61RQwYdhSO5Im1CK0CsrjTk
+#EXTINF:-1,TELECINE ACTION
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6_ErN6QBikGsJnMA1tq_AbI
+#EXTINF:-1,TELECINE CULT
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6wMgVX-KMUjvV5gxm6alwnQ
+#EXTINF:-1,TELECINE FUN
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg61XPMLhhmn1JShyo8Z_u-qQ
+#EXTINF:-1,TELECINE PIPOCA
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg65enqQAr2BLAHDT3AC6xBFA
+#EXTINF:-1,TELECINE PREMIUM
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg63Z11NKs_7RJltEl5oQD340
+#EXTINF:-1,TELECINE TOUCH
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg66nFKwjDDJVzarX3duB-hxs
+#EXTINF:-1,DISCOVERY CHANNEL
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg65qBIl3yOs4dpi9rfT07f84
+#EXTINF:-1,DISCOVERY H&H
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6zsPF1E5lSxxHu_jtvNoOss
+#EXTINF:-1,DISCOVERY SCIENCE
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg658INP4RWBfLawMQB0nZ6p4
+#EXTINF:-1,DISCOVERY THEATER
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg63io7ZHq4ncN92cuCt8oTi0
+#EXTINF:-1,DISCOVERY TLC
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg691u2mYFS4oyPXVrnt1EROA
+#EXTINF:-1,DISCOVERY TURBO
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg65Eq-IRqgx2t8xa9DnSN9pI
+#EXTINF:-1,DISCOVERY WORLD
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg60K3wRDbz1I5jEIbYQygYkI
+#EXTINF:-1,DISCOVERY ID
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg604AbDR26eqqpIMGpbf9CXs
+#EXTINF:-1,ANIMAL PLANET
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg64OdY3o9ENL6qpmlYSFM67Y
+#EXTINF:-1,FISH TV
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg60MUWX8cUBIitec_ADCu7T0
+#EXTINF:-1,HGTV
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg65hK-rJDWIjWuneo2sYEiiU
+#EXTINF:-1,HISTORY H2
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg62OueEdqQY8h1s8WogVqxEw
+#EXTINF:-1,HISTORY CHANNEL
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6zc9ZQdPN06xrgCA-4htFEg
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg63aZcKja5mJVJVa8sqBIdkA
+#EXTINF:-1,BABY TV
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6-TlXch6f7xlFg98zLhOulU
+#EXTINF:-1,CARTOONITO
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg61eocmjGtGZD8ZcM7keVwhc
+#EXTINF:-1,CARTOON NETWORK
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg62EXCVi-h_cQQeaOOG2z7FE
+#EXTINF:-1,DISCOVERY KIDS
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg66ceYsi9YqHgaRPtkffYejc
+#EXTINF:-1,DISNEY CHANNEL
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg606h1K6mp9NFdqXbh8cIb9s
+#EXTINF:-1,GLOOB
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg69J5gu3kAmeo4f9DrTQI5sw
+#EXTINF:-1,GLOOBINHO
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6_kPEsKo3dBrd0iiyreN_Fs
+#EXTINF:-1,NICK JR
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg61IOyB-YNvLPuSSsDd09e40
+#EXTINF:-1,NICKELODEON
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6_4Vs0W9GKaUV9gPLfdnbqE
+#EXTINF:-1,TOONCAST
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg64WhiRzR7wv-oz2Cf9GtPBE
+#EXTINF:-1,TV RA TIM BUM
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg63fll82rSNeyfd2VqIDPKg8
+#EXTINF:-1,ZOOMOO
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg66ZbL9IdGwNuj9j4FSG0EZM
+#EXTINF:-1,BAND SPORTS
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg64BDZQm7pSfVvyjPCx2SOFI
+#EXTINF:-1,COMBATE
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6wnYBFmA_JwGxd1HUwaKHRk
+#EXTINF:-1,FOX SPORTS 2
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg68jD8gHjaP3EkyFFbu1W8R0
+#EXTINF:-1,SPORTV 2
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg66ZjuKorWVkKBxWFR2Id-cA
+#EXTINF:-1,SPORTV 3
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6wH10VVY67Hr5TevSdb9390
+#EXTINF:-1,SPORTV
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6zxTLpBw_QtpTa9c6F2ia7A
+#EXTINF:-1,WOOHOO
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg62lG-b6PrXgU65PxNAER4zM
+#EXTINF:-1,PREMIERE 2
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg67XUyxzPiscahtQxmQHHVno
+#EXTINF:-1,PREMIERE 3
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg66WPFVAhAKBAaUeOocxB84k
+#EXTINF:-1,PREMIERE 4
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg64h9wC2z4Cz9G2WG8qYOhaw
+#EXTINF:-1,PREMIERE 5
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6x00HQtbp-pNOAxyI3MY-K8
+#EXTINF:-1,PREMIERE 6
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg67VCTGdxPdsYlYl0dXD77DA
+#EXTINF:-1,PREMIERE 7
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg66BcuczG8yMytomNm3uBS_4
+#EXTINF:-1,PREMIERE CLUBES
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6wVxoypUXMVaRslDqrmkhio
+#EXTINF:-1,BAND NEWS
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6xB0dWrr17J7NrfPeusqWtI
+#EXTINF:-1,CANAL JOVEM PAN
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6z07P8P_S2Gxbmf1xr7LoBw
+#EXTINF:-1,CNN BRASIL
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg62h2RoF2BM9PucoiefUX9ys
+#EXTINF:-1,CNN INTERNACIONAL
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg62FReL1oYd12_RM1TcYtzvA
+#EXTINF:-1,GLOBO NEWS
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6xQ1bgmLUhERcgzgPaEK9QM
+#EXTINF:-1,CANÇÃO NOVA
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg61LYASqP86GtB0UIuLfKf0c
+#EXTINF:-1,REDE SECULO 21
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6697B3LiW2i5X8Nb5vOiRNY
+#EXTINF:-1,REDE VIDA
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg60WM8XYTU1jvUOD_tFWbZ8k
+#EXTINF:-1,TV APARECIDA
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg61VTQ4HcDiHoe2I0aKej5jo
+#EXTINF:-1,TV NOVO TEMPO
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg69eHqL49J-vVxGL54nlFQvk
+#EXTINF:-1,TV PAI ETERNO
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg67clZnYJOVCbDfoJR286ng8
+#EXTINF:-1,BIS
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg67jXd395qO9_vf7kEKmuu6o
+#EXTINF:-1,COMEDY CENTRAL
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg66USJ8NjZPYF6st7kEyey1s
+#EXTINF:-1,DOG TV
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6wJIQpvGq-pNcbGlxxprxhA
+#EXTINF:-1,GNT
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6-3C_gGGPecpsaWHNFa5gqY
+#EXTINF:-1,CURTA!
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg64M8-XCZcy9VuYaz-PcF-QU
+#EXTINF:-1,E!
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg62O5PF3FHnWICs2begnexl0
+#EXTINF:-1,FASHIONTV BRASIL
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg69dXro-thmRrYnigOBS_kKU
+#EXTINF:-1,FOOD NETWORK
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6-7UlCRWu7t-Pg0JGfoI9Z0
+#EXTINF:-1,FUTURA
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg61Ls62xtZSLqNGsu49pP-84
+#EXTINF:-1,LIFETIME
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6-rbTvSakKi1l727R8ewBB4
+#EXTINF:-1,MTV 00s
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg60Bt-uQQ20Z6H_0CBTnucu8
+#EXTINF:-1,MTV
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg68_ApamUcwoMJq1Kn8f9ThY
+#EXTINF:-1,MULTISHOW
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6wOAl6busvFbx5Axze9xU9E
+#EXTINF:-1,MUSIC BOX BRASIL
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6-M0CLGubHz4D1PIdK-2R-Q
+#EXTINF:-1,NHK
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6_MMvlshBmVaQlwgBvgN_Xs
+#EXTINF:-1,OFF
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg63hwQN0bmJt1q0PKOghHxEM
+#EXTINF:-1,PRIME BOX BRASIL
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6_kc3aDrmKKXN7Hyw2oGQTw
+#EXTINF:-1,RIT
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg68HowTuBTkGI8XMbg86IAJM
+#EXTINF:-1,TBS
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg64BFATiMPcwZHribWWJUs9E
+#EXTINF:-1,TRAVEL BOX BRASIL
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6zfc4vzGiizgRvjzBfmYPuo
+#EXTINF:-1,TRU TV
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6xb3UcrP_EwtUGb1SOKjyAg
+#EXTINF:-1,VIVA
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg60y0TEoWd4jLMDz9Gzxpvio
+#EXTINF:-1,CINE CANAL
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg604Bc7PkhaX9vfsoodlubAc
+#EXTINF:-1,TNT NOVELAS
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6z067LgvNYwPHm1iD3jPHt8
+#EXTINF:-1,CINE SKY 10
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg61jeBRMkytiUCAWQqBzWpcM
+#EXTINF:-1,1-GLOBO SP
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg616Irp4V0_09l1mrIocNols
+#EXTINF:-1,2-GLOBO SP
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6zVjVQs5vxsqMR-CBm29sWU
+#EXTINF:-1,3-GLOBO SP
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg69iIrOfZxFRBOcRxogdiNcY
+#EXTINF:-1,4-GLOBO RJ
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6zTpq9POtas983Y5v7mXV4A
+#EXTINF:-1,EPTV CAMPINAS
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg68DTlT_Wd5slz7PT-A0QLQo
+#EXTINF:-1,EPTV RIBEIRAO PRETO
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg67UI9R0-_oTvesDotH1-6Lw
+#EXTINF:-1,EPTV SUL DE MINAS
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg61gUfFOeUexE1IzYk75z59Q
+#EXTINF:-1,EPTV SÃO CARLOS
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg65cxPUEuqNAFKQJfnmRsrUE
+#EXTINF:-1,GLOBO ALAGOAS
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6zlg0WWTqEMd6zuTbDBiUlg
+#EXTINF:-1,GLOBO BAHIA
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg62OKB1X9wUG233zC9xl-aFU
+#EXTINF:-1,GLOBO BRASILIA
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6wGw1gj0Dsbhap3Z7tGqff4
+#EXTINF:-1,GLOBO INTEGRAÇÃO MG
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg60J8Yc7kuIl4tlqsN-vj_Qo
+#EXTINF:-1,GLOBO INTER DO VALE
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg657-3Cc5sQI83to1eQtL1jc
+#EXTINF:-1,GLOBO JOAÇABA
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg69S8I5RF_BhDVs2yh4xOuiM
+#EXTINF:-1,GLOBO JUIZ DE FORA MG
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg69X7HOK7iFpQATdaq0Cw7wg
+#EXTINF:-1,GLOBO MANAUS
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg62liw4d6YA2H3hT4D3RoCKU
+#EXTINF:-1,GLOBO MINAS
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg66uPs3Cg-fu0Gi4H1cgbU6M
+#EXTINF:-1,GLOBO MOGI DAS CRUZES
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg67KjMHJjqGAXG-mIMBTj_pE
+#EXTINF:-1,GLOBO MONTES CLAROS MG
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg613Mjs40QaPLW-VVtePeDE8
+#EXTINF:-1,GLOBO NORDESTE
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg62OTVmOpv_daVO8cM6OLMG8
+#EXTINF:-1,GLOBO PARAÍBA
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6zpbti9142Jgy7wxj-AGgXE
+#EXTINF:-1,GLOBO PETROLINA
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg69yLSgkKowqEA7kSUjQOKnc
+#EXTINF:-1,GLOBO PRESIDENTE PRUDENTE
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg63IvtdqWlD8Y4u5eQPBA4kI
+#EXTINF:-1,GLOBO SERGÍPE
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg66fFzLZTELjksK7GxKPMXzA
+#EXTINF:-1,NSC TV JOINVILLE
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg68kP07LgHHaEBhWzJ0Lm1L4
+#EXTINF:-1,RPC CURITIBA
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg674VmITwp3HLmdX6v83Pq-U
+#EXTINF:-1,TV CABO BRANCO JOAO PESSOA
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg62R_G2I6mx6_e2UwhQC5RSQ
+#EXTINF:-1,TV TEM BAURU
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg62RI-BOKbw2mgp4ftVolgAw
+#EXTINF:-1,UNIVERSAL TV
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6-CikfT-mZptoa2lJSPEZXI
+#EXTINF:-1,CANAL IURD
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6wcCr6w2Z9BxXUswZfvm6k8
+#EXTINF:-1,MODO VIAGEM
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6wCkgL1dp2Mny0P6VRee_R4
+#EXTINF:-1,REDE SUPER
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6-0HCR1xRV-xF-KGlT8dAyw
+#EXTINF:-1,FRANCE 24 NEWS
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg612vM1x9-qGwfp6rFxDLnVg
+#EXTINF:-1,BLOOMBERG
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6w1VvgMS6QlJEiQLam2w8Iw
+#EXTINF:-1,RECORD BELÉM
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6387xHHrdD_HFKA3-a5L7nI
+#EXTINF:-1,RECORD MG
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6_IrM1eDbTXkAyp39cArqgU
+#EXTINF:-1,UFC
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6_CB5C0MonOevqLAUjVLJdc
+#EXTINF:-1,TV EVANGELIZAR
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6yIZCOFW_5rRrjhmTY6-DJM
+#EXTINF:-1,ABC NEWS
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6xbKfgqcsF1Mmh8YOvGYIYg
+#EXTINF:-1,DISNEY JR
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6655RxuWu5Xb7FZS8iqWG0E
+#EXTINF:-1,TRACE BRASIL
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg63gR9tT1b8BL0-KTlASgNKc
+#EXTINF:-1,TV CINE ACTION
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6y5870GmTMs0bvgzZSngVhw
+#EXTINF:-1,RECORD PIAUÍ
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg60WqO4rKRBE0V6HRedhYd24
+#EXTINF:-1,GLOBO SANTA CATARINA
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg62rP9jeRCNHRBDaD1gpf9OE
+#EXTINF:-1,SBT ARATÚ
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg66M-M0ipRn8gxRkGu12wHN4
+#EXTINF:-1,SBT PERNAMBUCO
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6xcXgJCijyzBbZaXt6gtClg
+#EXTINF:-1,SBT THATHI
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg60G7C7XFwMnjrOnmp8j6uMM
+#EXTINF:-1,SBT PARANÁ
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6_X5nyE27EGkKKdcY1z5ELw
+#EXTINF:-1,SBT MARANHÃO
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg63xfR-HDc5BjS9Ru8_CQOPM
+#EXTINF:-1,SBT PIAUÍ
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6xk9ayv_2mxQ4e93ppOOj_s
+#EXTINF:-1,RECORD MATO GROSSO
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6zR8qNY4K-P3Lgm_SxUmr9E
+#EXTINF:-1,RECORD SANTA CATARINA
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg62bxXIXr7MPgmRNVT1gfbMs
+#EXTINF:-1,26 CHANNEL
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg64OUzxWt5Vr_elQmh-poGho
+#EXTINF:-1,EURO CHANNEL
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg619zh4ZJqvlvBbeUdxFH8-o
+#EXTINF:-1,SABOR & ARTE
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6-YfUoKHVguygYmTFAFihII
+#EXTINF:-1,SIC
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg64D05gNw7X72TB3kQ4Kz4wM
+#EXTINF:-1,TV5 MONDE FHD
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6_chK6WAhhVoQZmv0ei5M1I
+#EXTINF:-1,A&E 4k
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg65HGdqUtkcddUEwNqP6nAzo
+#EXTINF:-1,ANIMAL PLANET 4K
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg69jeZe4ISR22kaVyvIpeqVY
+#EXTINF:-1,AXN 4k
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg672UN63IFBxyY_ycVTWYjCQ
+#EXTINF:-1,BAND 4K
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg61Hz86hnYbzcmTFnv2CJSfE
+#EXTINF:-1,BAND NEWS 4k
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6y5SJ9XIjomJCG-cPfAOr9o
+#EXTINF:-1,BAND SPORTS 4k
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6yETbyWtcC6vDauJ7Xg8OF8
+#EXTINF:-1,BIS 4k
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg678R2hAI1wI1mlwNq5vab6s
+#EXTINF:-1,CANAL BRASIL 4k
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg63-u1DZJn1Bu0jIKgSMVI3Q
+#EXTINF:-1,CANAL SONY 4k
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg60pvx-U53xhpDy-BiC0cM4I
+#EXTINF:-1,CINEMAX 4k
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6zfjGTOQ1_HSa1yitLlV5ZE
+#EXTINF:-1,COMBATE 4K
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg66tMysDYjwnV5VZyqcO3Iv8
+#EXTINF:-1,DISCOVERY CHANNEL 4K
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6w-YkHbgdyA8EXHQQTd044s
+#EXTINF:-1,DISCOVERY H&H 4k
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg63cQ_QyIofX2_phM5g6NUls
+#EXTINF:-1,DISCOVERY KIDS 4k
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6_3vLb36iryKENc086KIwLE
+#EXTINF:-1,DISCOVERY THEATER 4k
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg69bLcbgrIL0bQKtC3b8JR7o
+#EXTINF:-1,DISNEY CHANNEL 4k
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6wvtadh_V-dRqBiaonZK5SY
+#EXTINF:-1,ESPN 2 4k
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg68fcz32YvWedRlahdZvHPh8
+#EXTINF:-1,ESPN 3 4k
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6zNEURhymapuHy179eUVnXY
+#EXTINF:-1,ESPN 4 4K
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6wQwzIhaEEuTH-MpE7w66mo
+#EXTINF:-1,ESPN EXTRA 4k
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6zrYeMSgx7Bg6FQ5krFyhXk
+#EXTINF:-1,FOX SPORTS 2 4K
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6_XR1q4jcY2uguNDFtnxQDA
+#EXTINF:-1,GLOBO EPTV CAMPINAS 4K
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg62tIQ9d2eEMmeRyiCce1C_A
+#EXTINF:-1,GLOBO EPTV RIB. PRETO 4k
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg62x7c4Ng5C2uV1R_dgLZIOA
+#EXTINF:-1,GLOBO MINAS 4k
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg63ELq0XWiVqIeIKoyCOw4SI
+#EXTINF:-1,GLOBO 4k
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg687oOIwWsOSOV_p0sEEZHLw
+#EXTINF:-1,GLOBO TV TEM SOROCABA 4K
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg61zNYa0GOzSnrs65Shc6-V8
+#EXTINF:-1,GLOOB 4k
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg69_pXHpE_vJecuvPSmCqs90
+#EXTINF:-1,GNT 4k
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6613AtNzdXBvF4VT_4oRZVs
+#EXTINF:-1,H2 4k
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6xKWpRg5t0G6tH-rYe0HQVc
+#EXTINF:-1,HBO 4K
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6x2nUEJjlanQ6C0mvea8PdQ
+#EXTINF:-1,HBO FAMILY 4k
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg62RBxyF7sUgWktQNgtdgh98
+#EXTINF:-1,HBO MUNDI 4k
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6yDiGo-yynL2idRhNQfezkA
+#EXTINF:-1,HBO POP 4k
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg603Bld4Po6JquIyQgi9MZ5U
+#EXTINF:-1,HBO XTREME 4K
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg66npBevdLRgG1oKyg5fEJhc
+#EXTINF:-1,HGTV 4K
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6xEFw7Wb3jp_MJze0Q54g1A
+#EXTINF:-1,HISTORY 4k
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg60FsbgkiGVLdKoS0TxAQf9k
+#EXTINF:-1,MEGAPIX 4K
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg67L6N7Fvhak6nSCjOdHbI5I
+#EXTINF:-1,MULTISHOW 4K
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg62M3t-kJGsfBFJUurNf4w8o
+#EXTINF:-1,NATGEO 4K
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg65roFcxa_H1ecE7IgqV4IfM
+#EXTINF:-1,NICK JR 4k
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6-cQOWP-Cj-uGjDdTjfafsk
+#EXTINF:-1,OFF 4k
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6zkILzsABS4WN38bJVZ8oh4
+#EXTINF:-1,PARAMOUNT 4k
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg60Z6EroFK0MTNzJUz1KOjYo
+#EXTINF:-1,PREMIERE 3 4k
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg61Wthngx4AR1PrIpk4HN7Rk
+#EXTINF:-1,PREMIERE 5 4k
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg64IHr4l9BqmPHqTQ3u3zQe4
+#EXTINF:-1,PREMIERE 6 4k
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg61-V24n1PzY-kyOb_KyPcLs
+#EXTINF:-1,PREMIERE 7 4k
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg697CRviMjVkLZDwASQdfV4E
+#EXTINF:-1,PREMIERE CLUBES 4K
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg61Jcq4FRkKHKx0S2a2k8208
+#EXTINF:-1,RECORD 4K
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg61X8BuQj7kSh2p-eYH90tW0
+#EXTINF:-1,REDE TV 4K
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg61JLHYURSODHJvb6J4T2FcQ
+#EXTINF:-1,SBT 4K
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg68X6WbDohdgFGF_gBkeb_Cg
+#EXTINF:-1,SPACE 4K
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6yCcg4PlV7TzvEiHUDtsOwc
+#EXTINF:-1,SPORTV 2 4k
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg65m6lJzMl1XgRA6XKTzOSBI
+#EXTINF:-1,SPORTV 3 4k
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg66A0CT2pNd62kqtynT-q5Yo
+#EXTINF:-1,SPORTV 4K
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg66AAleNdh8v7jgnQMekAOCY
+#EXTINF:-1,STAR CHANNEL 4K
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg69Xpd9F-YQ3zNr-Rr1Amwy8
+#EXTINF:-1,SYFY 4k
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg60yPWUP4taVQlbvBuVQ44SI
+#EXTINF:-1,TELECINE ACTION 4k
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg63uZy71MEtI4kjh6mUSofZs
+#EXTINF:-1,TELECINE CULT 4k
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6xRyoxoMRVuKVPtvVFkkVvg
+#EXTINF:-1,TELECINE FUN 4k
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg649g8mkwWHqMVDVfMyorMEE
+#EXTINF:-1,TELECINE PIPOCA 4K
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6227rtHCLO-2_R4ZlvuiVac
+#EXTINF:-1,TOONCAST 4K
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6xUYD0y9epg4-z-LwYUCN7o
+#EXTINF:-1,TRACE BRAZUCA 4K
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg61n0Ir1n6HmzVAWaMd9gOM8
+#EXTINF:-1,UNIVERSAL CHANNEL 4k
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6zUQo-Lx3QC6RRm5qKeIY9c
+#EXTINF:-1,VIVA 4K
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg60UlhWg97RbDiaiG07RpE7s
+#EXTINF:-1,WARNER 4k
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg621tQDqJ6Cx59s5Mudk-f4M
+#EXTINF:-1,AGRO BRASIL
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg63_EnkJIOIqtmL9FCvfKyxI
+#EXTINF:-1,AGRO CANAL
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6zEZLNqYBZz0kaCadmW5WAg
+#EXTINF:-1,AGROMAIS FHD
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6yY9ni6zIoQa1sFxv_mVd30
+#EXTINF:-1,AGROMAIS HD
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6183HInJ15Fo9fVGqA3OQOQ
+#EXTINF:-1,AGROMAIS SD
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6_HG8ffUdd6b1SoY5unMWtU
+#EXTINF:-1,CANAL BRASIL
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6xJFCLihrAG-fFMCGiEYUGI
+#EXTINF:-1,CANAL DO BOI
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg61kWHn__PYp1usUSBXXxKnU
+#EXTINF:-1,CANAL RURAL
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg62IAONRytry1qB0rCp8rUCs
+#EXTINF:-1,FUTURA
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg60xOWe_3KtCDO2x3S5V0mLw
+#EXTINF:-1,POLISHOP
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6ypekPUQpnnbuM66e5gDjFk
+#EXTINF:-1,REDE BRASIL
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6y-VlG0I0A-jXNoiFo4UMro
+#EXTINF:-1,REDE TV!
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg65gTATZp__EBuzI22ZqYGnY
+#EXTINF:-1,TERRA VIVA HD
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6yo6WIK9gazS6YbqbHF39d0
+#EXTINF:-1,TERRA VIVA SD
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg67BIq3cA02oRbC_rZ3dfXlI
+#EXTINF:-1,TV BRASIL
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6-598z44DcOfZRmC8iXPr7U
+#EXTINF:-1,TV CAMARA
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6zJ6jMom_lX8D-X2ZaPlLFg
+#EXTINF:-1,TV CULTURA
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6_XH-ph2FH-TkRW5hFMYClQ
+#EXTINF:-1,TV ESCOLA SD
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg60KCxttmXrSAElP405jlJ9c
+#EXTINF:-1,TV GAZETA SP HD
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg69QOLvwU50-4jWsX_zcXIDY
+#EXTINF:-1,TV JUSTIÇA
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg66kmT6dvMYN7bz9U41toFXc
+#EXTINF:-1,TV PAMPA RS FHD
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg60RMTo8EcYTRx27lravmnf4
+#EXTINF:-1,TV PAMPA RS HD
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6w2JBkv1_AwdXEF-_Xt3DtY
+#EXTINF:-1,TV SENADO
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg67NUhMHgQBjd6iE0-go_eeo
+#EXTINF:-1,BAND BRASILIA
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6wu0B5V8itoiPRa4ExeDLQ0
+#EXTINF:-1,BAND CAMPINAS
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg69zY5i0rAY9lNBf1taUbNzI
+#EXTINF:-1,BAND CURITIBA
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6-wIghaUWG4iTQ1Jms1o0OE
+#EXTINF:-1,BAND MINAS
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg69XOGeY6OkJK-jg3CCNODcE
+#EXTINF:-1,BAND PARANA
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6_QB_YGJ12NUtQ122teOCLQ
+#EXTINF:-1,BAND RJ
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg67AZ6QrpIXpK6CysBNhtgR0
+#EXTINF:-1,BAND SERGIPE
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg62nfay0FuADXxZxpGSFMzzQ
+#EXTINF:-1,BAND SP
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6zkMcZTlzl-0ulyfa7NKSIQ
+#EXTINF:-1,BAND RS
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6zcLDI8AlYzbYY8n4hmmfc8
+#EXTINF:-1,ESPN 4K
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg66paNHg65kDzbj75UgN-8T8
+#EXTINF:-1,TNT 4K
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6zgj5n-S9AKYJTDM5M8l7ik
+#EXTINF:-1,FX 4K
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg61JqLKrcCC2EoGCwQdIITRU
+#EXTINF:-1,TNT SERIES 4K
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg60u6Qb17Ox42RDO8EWzbalA
+#EXTINF:-1,BAND BAHIA
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6zwkvd__f5uBDCIm5F92wv4
+#EXTINF:-1,BR: A Fazenda 15 HD - Cam 01
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6557GJFdU2qP4ueOrEBsBMg
+#EXTINF:-1,BR: A Fazenda 15 HD - Cam 04
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6_PThpTp_oRo-ezsB14zkn8
+#EXTINF:-1,BR: A Fazenda 15 HD - Cam 02
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg66HAs0DItdeyj3hyM6uAIp4
+#EXTINF:-1,BR: A Fazenda 15 HD - Cam 03
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg67KpOHFcGzHcueozDvx6r34
+#EXTINF:-1,BR: A Fazenda 15 HD - Cam 05
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg66E_QinJHzPeflPsO0PvdX4
+#EXTINF:-1,ALL SPORT
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6_xlJPHfGX07MsSzrxh5xhM
+#EXTINF:-1,TV BOA VONTADE
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg68JQ_oINHuC-Zm8h7TTuBfA
+#EXTINF:-1,AWTV
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6-vOrRBvjqkS6EFNP2wcbYg
+#EXTINF:-1,CANAL SAÚDE
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6wrPkrZup-LdYoPwRr2cWRg
+#EXTINF:-1,CHESPIRITO
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6w_eFQJObJqyWWRp1FrN-Jc
+#EXTINF:-1,CNT
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg60brQtgv_tHT4ypxr-g62iA
+#EXTINF:-1,MASTER TV
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg67rbagefHCsMxbw0D9cpYX0
+#EXTINF:-1,PLAYPOCA FILMES
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6-dKyXhttCrxSzFef5xrax8
+#EXTINF:-1,PLAYPOCA SÉRIES
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg61bbGOs9Lo7l6FPlkgbw_Q4
+#EXTINF:-1,REDE GENESIS
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6yK3SkqRsF41kkoBWWJKQOA
+#EXTINF:-1,REDE METRÓPOLE
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg65uAa2MvMu-EeXZQUQQzOc8
+#EXTINF:-1,SESC TV
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg66HurFLnuSqjgZ93pb4XaiM
+#EXTINF:-1,TV ADORAR
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg60mfVoQ5b9ljCahe9LytGWY
+#EXTINF:-1,MTV LIVE
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg68i7Z1yx3sj78WwtVlSEeoE
+#EXTINF:-1,GUIA ESPORTIVO
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6_9BqzmBKR08SDIN26FR4ac
+#EXTINF:-1,TELECINE PIPOCA FHD H264 (CANAIS LEGENDADOS)
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg65SE2nlAUU7YKTS4_2U4gv4
+#EXTINF:-1,TELECINE PIPOCA HD (CANAIS LEGENDADOS)
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6xahmmTLNmmNI71ZplZfXZI
+#EXTINF:-1,TELECINE PREMIUM FHD H264 (CANAIS LEGENDADOS)
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6_MyJW9P9QYQpvxf-ua4jDw
+#EXTINF:-1,TELECINE PREMIUM HD (CANAIS LEGENDADOS)
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg66FfWMyPk9dGXvLqeJvPMsU
+#EXTINF:-1,TELECINE ACTION FHD H264 (CANAIS LEGENDADOS)
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg67B0xPHaTdSrMBmFpvLmBFY
+#EXTINF:-1,TELECINE ACTION HD (CANAIS LEGENDADOS )
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg639BSqP-Kk0-9-etPO3cCxA
+#EXTINF:-1,TELECINE TOUCH FHD H264 (CANAIS LEGENDADOS)
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6xccplDgvU3DuH-C1HvyLCA
+#EXTINF:-1,TELECINE TOUCH HD ( CANAIS LEGENDADOS)
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg67SRsfWB_cY1DxAi8SFaAMk
+#EXTINF:-1,TELECINE FUN FHD H264 (CANAIS LEGENDADOS)
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg69NQGSQVGSsvx7NXDMEhB84
+#EXTINF:-1,TELECINE FUN HD H264 (CANAIS LEGENDADOS )
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6xDP_4eWD6xoOL1-dGhY8iY
+#EXTINF:-1,TELECINE CULT FHD H264 (CANAIS LEGENDADOS)
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg67_5JNs0xnRKdOojjCtWqDU
+#EXTINF:-1,TELECINE CULT HD ( CANAIS LEGENDADOS )
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg69CwnJjaBYW8MlDQy-dhDQA
+#EXTINF:-1,HBO FHD H264 ( CANAIS LEGENDADOS )
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6x4Y8k9qXtGov3v0bEimvwc
+#EXTINF:-1,HBO HD ( CANAIS LENGENDADOS)
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg69aohOEcJeNOhzv3R1wS_Yc
+#EXTINF:-1,HBO PLUS FHD H264 ( CANAIS LEGENDADOS )
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg63dwPeyvoxOw_zbJKfeET6Y
+#EXTINF:-1,HBO PLUS HD ( CANAIS LEGENDADOS )
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg67jN65RtVLLW336Z74Y10os
+#EXTINF:-1,HBO SIGNATURE FHD H264 ( CANAIS LEGENDADOS)
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg67Y9jg4t4SgvNM8WQUfaWiM
+#EXTINF:-1,HBO SIGNATURE HD ( CANAIS LEGENDADOS )
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6_pbKUh-PdzgELXrDTYaxvo
+#EXTINF:-1,HBO MUNDI FHD ( CANAIS LEGENDADOS )
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6zNAf5Xp6AVTN3lGoAL9_Sc
+#EXTINF:-1,HBO MUNDI HD ( CANAIS LEGENDADOS )
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg62Brq9RSP-s9EyZjpqIIZMY
+#EXTINF:-1,HBO POP FHD H264 ( CANAIS LEGENDADOS )
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg68-my5XqNSpR9Ulxd1aHJns
+#EXTINF:-1,HBO POP HD ( CANAIS LEGENDADOS )
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg694aVT2sB4V4u_NUQCJk2Z8
+#EXTINF:-1,HBO XTREME FHD H264 ( CANAIS LEGENDADOS)
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg61or2KaEFkasJ7lbubjBl1k
+#EXTINF:-1,HBO XTREAM HD ( CANAIS LEGENDADOS )
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg62Q8PGrfJ78snYzvn-hwaB8
+#EXTINF:-1,STAR CHANNEL FHD H264 ( CANAIS LEGENDADOS )
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6xPgXhHLLGRR1EZFBU02MqI
+#EXTINF:-1,STAR CHANNEL HD ( CANAIS LEGENDADOS )
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6wDre-NE5-_KHvjD-eymk7A
+#EXTINF:-1,MEGAPIX FHD H264 (CANAIS LEGENDADOS)
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6wsBu5pq_lBM1Apbl_0MjBw
+#EXTINF:-1,MEGAPIX HD ( CANAIS LEGENDADOS )
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg68nH479UNuAIcX9YOnoAS3c
+#EXTINF:-1,HBO FAMILY HD (CANAIS LEGENDADOS)
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg63Jn4LcbDwvNZ58-az3qvck
+#EXTINF:-1,HBO FAMILY FHD  (CANAIS LEGENDADOS)
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6zdItB1y8HqFzzj8ecFrDpg
+#EXTINF:-1,TNT SERIES HD (CANAIS LEGENDADOS)
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6-sHvrw_7gWU3-JEalKP1Ls
+#EXTINF:-1,TNT SÉRIES FHD H264 (CANAIS LEGENDADOS)
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6_sbnGfDmiUyeDqu_h8LI5M
+#EXTINF:-1,TNT HD (CANAIS LEGENDADOS)
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6w_UgKMNsrAPciQVhwDuJWM
+#EXTINF:-1,TNT FHD H264 (CANAIS LEGENDADOS)
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg652LocVySUD7Jao8yXM4F2s
+#EXTINF:-1,SPACE HD (CANAIS LEGENDADOS )
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6ww_gAZCWWhkVjvCs3jgWxk
+#EXTINF:-1,SPACE FHD H264 (CANAIS LEGENDADOS )
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg65UA3h4qhNCmClH5-sml9PM
+#EXTINF:-1,WARNER CHANNEL HD (CANAIS LEGENDADOS)
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg682dC82vK4hxw-jSodGhUjo
+#EXTINF:-1,WARNER CHANNEL FHD H264 (CANAIS LEGENDADOS)
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg69BUD_2HGv6UxYG_6P2md6s
+#EXTINF:-1,PARAMOUNT + 02
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg61dGcE07a26-vo-TL8VR6dY
+#EXTINF:-1,PARAMOUNT + 02 ALT
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6-8EqQt03eM9k1Xy6mrv9sE
+#EXTINF:-1,PARAMOUNT + 03
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6yI6U1OLfluigsLPWrgbJak
+#EXTINF:-1,PARAMOUNT + 03 ALT
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg62ng0fG28gizS0-WengIT4A
+#EXTINF:-1,PARAMOUNT + 04
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6-eSIhzhF9ZsJYRDAey1S_w
+#EXTINF:-1,PARAMOUNT + 04 ALT
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6z2xQ-cZKvtLa97hKESxxAc
+#EXTINF:-1,DAZN 01
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg63akV5mHZXmkFkazxXEK2WA
+#EXTINF:-1,DAZN 02
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg67j9V_Bck6hHjLpVn6KAoqk
+#EXTINF:-1,DAZN 03
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6zX5puOVe26Ol48NTMsWPas
+#EXTINF:-1,DAZN 04
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg67WgMes696Kgd7FMEOVAuLQ
+#EXTINF:-1,DAZN 05
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg60yl8AyyJWZpgFq1M-Cjpfk
+#EXTINF:-1,HBO MAX 1
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg69nliZTQ5fBQ676gx7cQ7Zo
+#EXTINF:-1,HBO MAX 2
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6xRtNdt5kEl-ZGwd53F6e6w
+#EXTINF:-1,HBO MAX 3
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6-63Ku-ic0-al_5VmK5TR6E
+#EXTINF:-1,HBO MAX 5
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6x1E7nCL39SI47_5-6aWgsc
+#EXTINF:-1,STAR + 1
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg62JlEXrv90Ma8iNnqN1t2vM
+#EXTINF:-1,STAR + 2
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6-1CXGx7S4RjI6PhoEUs_0Q
+#EXTINF:-1,STAR + 3
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg64NGd8BnqYxkgF8Px3QU4z0
+#EXTINF:-1,STAR + 4
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6yZFY7B8bS2yD8fmNw2jVug
+#EXTINF:-1,STAR + 5
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg66Pv-Wdn0D2E8xYCWZfiCPs
+#EXTINF:-1,STAR + 6
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6zYKxEPeYpNGeR-_7OOp2jo
+#EXTINF:-1,STAR + 7
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6xViC4hnXxi9mKZRK7ejve0
+#EXTINF:-1,UFC FIGHT PASS 1
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6-YG6MxYPORGV0N8qeVxRa8
+#EXTINF:-1,FURACÃO PLAY
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg61x_3Ew3j6iAMDAPY2I-Puo
+#EXTINF:-1,CANAL GOAT TV
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg69EquyV6wqk-eylQkewNLHk
+#EXTINF:-1,APPLE TV+ 01
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6-Np-8XvSTcLQsSjBVvoyrA
+#EXTINF:-1,APPLE TV+ 02
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6-Bdr1OMXzB7QyPYV9s1xHI
+#EXTINF:-1,AMAZON PRIME JOGO 1
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6_3Yj5krxKcwLkHyJ6j04JQ
+#EXTINF:-1,AMAZON PRIME JOGO 2
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg62zM_T7YcANzNUcTPFF94uQ
+#EXTINF:-1,AMAZON PRIME JOGO 3
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg67RFkdIlQPBj0n-Bj4EqB28
+#EXTINF:-1,AMAZON PRIME JOGO 4
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6wqQecaA9bb0NTvz3P9-Hvk
+#EXTINF:-1,ELEVEN 1
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6w3tZmcPlXPRGzwhJFfs6QI
+#EXTINF:-1,ELEVEN 2
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg66VbOwO4iSosMxUWlCuqMJA
+#EXTINF:-1,N SPORTS
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6_2CnAkT1CW_zOdfynT7R6s
+#EXTINF:-1,ESPN
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6xb4rRCxAwsaM-8ziI5S5iA
+#EXTINF:-1,ESPN 2
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg63OZ5cw-0n1d-ut5eJ7RZfk
+#EXTINF:-1,ESPN 3
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg66sL4hgosAxN5zQZYhjhYE0
+#EXTINF:-1,ESPN 4
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6zEK1dD_6wLTAQdncjE8-OQ
+#EXTINF:-1,ESPN EXTRA
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg61jtxfOjInISf2wlo2-K6io
+#EXTINF:-1,XXX:Woman
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6w3p2bvNot2Cz1iRPFDtwnc
+#EXTINF:-1,XXX:Rough
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6-ra4V-88lsS7sypscTAqSA
+#EXTINF:-1,XXX:Live Cam
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg63JciZgazclqkLvZfYNtl9E
+#EXTINF:-1,XXX:Hardcore
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg63fljMsUjMauRXhI4o3jWKE
+#EXTINF:-1,XXX:Morena
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg64QE0px3LjD6Y46idHw5sk4
+#EXTINF:-1,XXX:Loira
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg639dIBG6aWt757GONRfhuh8
+#EXTINF:-1,XXX:Asian
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg63oCMaLL77KnnJPq_q5sORU
+#EXTINF:-1,XXX:Anal
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg61DIpjlTxbIx4gHCSTIuwNc
+#EXTINF:-1,XXX: RedTraffic Threesome
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg69uHx7AANVNvR8hIKc77kzs
+#EXTINF:-1,XXX: RedTraffic Teen
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6we-nBt8VBGY7wOGgUgu4hE
+#EXTINF:-1,XXX: RedTraffic Russian
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg64Tq2oy5ZIWphTxuyaDPjKw
+#EXTINF:-1,XXX: RedTraffic POV
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg69uTpzDbtg93dSxeLI4ZtNw
+#EXTINF:-1,XXX: RedTraffic Pornstar
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg63vQmy5Yg4_q4J0mIduqRRU
+#EXTINF:-1,XXX: RedTraffic MILF
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg68LkVC0C-26s8hABEm-UaxY
+#EXTINF:-1,XXX: RedTraffic Lesbian
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg607iZfRI0wIQ6dyNyUIsOrU
+#EXTINF:-1,XXX: RedTraffic Latina
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6-WNBu3djYA7Qf0S5FGS8tU
+#EXTINF:-1,XXX: RedTraffic Fetish
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6wkNTwZsYtKapzEZMEW7WCI
+#EXTINF:-1,XXX: RedTraffic Cuckold
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg61_xdba0TA0AF-l8tpwScsU
+#EXTINF:-1,XXX: RedTraffic Blowjob
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6_81UoPvMKCb2s-LipYu2Do
+#EXTINF:-1,XXX: RedTraffic Big Tits
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg68GnGWczBbWnihhKhgJ7GNE
+#EXTINF:-1,XXX: RedTraffic Big Dick
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6_JzY6I9g-KD9mT0kbGeSJ4
+#EXTINF:-1,XXX: RedTraffic Big Ass
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg67zFadwLSWnXZDACWLol7W0
+#EXTINF:-1,XXX:  TV +18
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg685poRGWSI1ppuUSve5XBno
+#EXTINF:-1,XXX: Miami TV Live
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg65BFKNm7JdM101y5zefiPZM
+#EXTINF:-1,XXX: Visit-X TV
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg617UfLQAhsay61GuY_G7NQA
+#EXTINF:-1,XXX: Lesbian
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg64kO61t9vVzZj37PoifACDE
+#EXTINF:-1,XXX: SEXY HOT
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg68OL6CWQRT0wU_C9JqCw3uo
+#EXTINF:-1,XXX: SEXTREME
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg61vI-H1qAP-xu3ZxWDEqRZo
+#EXTINF:-1,XXX: PLAYBOY TV
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg66RVFb95Y-kKOScGYaPR0Qo
+#EXTINF:-1,XXX: XChimera
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6-QA5GfQ7mun8hGsdq3C65c
+#EXTINF:-1,XXX: TRUE ANAL
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg67uR8EqmAoJArd54CoGSebM
+#EXTINF:-1,XXX: PENTHOUSE BLACK
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6yId073PJ8Skd0JKc_lZEAc
+#EXTINF:-1,XXX: OX AX
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg61jKA-ZR2_zaUFqIe7v81qI
+#EXTINF:-1,XXX: DUSK
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg69AxnRDl2e9oU917q24i4vA
+#EXTINF:-1,XXX: SCT CLASSIC
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg63NJsllKz0gmXFkJ-ceu57c
+#EXTINF:-1,XXX: HOTCLUB 2
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg604K239WQAtRUvJnlxlgjrY
+#EXTINF:-1,XXX: BANGERZ
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg67nODdYR78Bb666_PvhYjvs
+#EXTINF:-1,XXX: HOTCLUB 1
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6-QLMd7h3hf9RflLJT5h984
+#EXTINF:-1,XXX: Gay
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg60EvNYsbqn1iLBVgxx9Kz0o
+#EXTINF:-1,XXX: FIRST ANAL QUEST
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg66L9dEjQseMpnWLUTXAwD0k
+#EXTINF:-1,XXX: HOTCLUB 3
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg67IuuZE2aMCDEOe8SdFWC8k
+#EXTINF:-1,XXX: Midnight Secrets
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6yBOhrUcDzBTXG7QoZrhv4w
+#EXTINF:-1,XXX: Red Traffit Big Dick
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg65oGFh6o0PGmKMfm6-M0DYo
+#EXTINF:-1,XXX: HOT
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg67B6EBareUFjnTrkRElmNIk
+#EXTINF:-1,XXX: VENUS
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6z3vRwyVO1e-kYvTj9uS6IM
+#EXTINF:-1,XXX: SIRINA
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6_EGDsQCJ38wY4x1d6ChRzY
+#EXTINF:-1,XXX: PENTHOUSE
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6wZg3HzZ9_oK66b5eU04730
+#EXTINF:-1,XXX: Jasmin
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg66ihCBkDG9pCdCRiA5f-k9U
+#EXTINF:-1,XXX: EROTIC 2 LA5
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg68AkBLfPX19Kh7jAaAGcPSE
+#EXTINF:-1,XXX: HORROR PORN
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg65CYmDZi3QoCaztw9xlnRYo
+#EXTINF:-1,XXX: Brazzers TV Europe
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6x9EPItq5LVWztXy6ZEujfY
+#EXTINF:-1,XXX: SEX ZONE
+http://capivara.top:80/play/vHlDvO8oWrh_IZWOVsZg6xLzO_rJtxRo5yOjeTUDuhs
